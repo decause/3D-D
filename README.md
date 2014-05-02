@@ -26,7 +26,7 @@ First Flight
 -----
 
  - Using this tutorial
-   [http://repraprip.blogspot.com/2011/05/inkscape-to-openscad-dxf-tutorial.html]
+   http://repraprip.blogspot.com/2011/05/inkscape-to-openscad-dxf-tutorial.html
    I was able to discern the best methods for using my weapon of choice
    (inkscape) as a starting point. 
 
