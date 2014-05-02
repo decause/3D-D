@@ -9,7 +9,7 @@ http://lulzbot.com
 First Flight
 =====
 
-[Inkscape http://inkscape.org]
+[Inkscape] (http://inkscape.org)
 -----
 
  - import .svg version of gravatar
@@ -22,7 +22,7 @@ First Flight
  - BONUS: I exported in `UTF8` and clicked the `gcode friendly` option when
    saving.
 
-[OpenSCAD http://openscad.org]
+[OpenSCAD] (http://openscad.org)
 -----
 
  - Using this tutorial
@@ -33,14 +33,16 @@ First Flight
  - Praux-Tip: Use the preferred child() import method (listed in the comments)
    to import files, like so:
 
-`linear_extrude(height = 1.5) import("/home/decause/inkscapes/pixelremy_3D_nomouth_small_final.dxf");
-linear_extrude(height = .5) import("/home/decause/inkscapes/pixelremy_3D_boxonly_final.dxf");`
+```
+linear_extrude(height = 1.5) import("/home/decause/inkscapes/pixelremy_3D_nomouth_small_final.dxf");
+linear_extrude(height = .5) import("/home/decause/inkscapes/pixelremy_3D_boxonly_final.dxf");
+```
 
  - Once objects are loaded, Press `F6` to compile and build the model
  - After all is compiled and rendered, click `export` and save the result as a
    `.stl` file
 
-[Slic3r http://slic3r.org]
+[Slic3r] (http://slic3r.org)
 -----
 
 Not knowing anybetter, I opened the `.stl` file in Pronterface, which looked
@@ -51,7 +53,7 @@ all the paths without extruding any filament)
  - press `add` button to open `.stl` file in slic3r 
  - press `Export G-code...` button on the right 
 
-[Pronterface https://github.com/kliment/Printrun]
+[Pronterface] (https://github.com/kliment/Printrun)
 -----
 
  - Set extruder and bed temps appropriately
