@@ -3,13 +3,13 @@
 
 This repository mostly just contains files created and generated during my
 initial attempts to 3D print a version of my gravatar on a Lulzbot TAZ 3:
-[http://lulzbot.com]
+http://lulzbot.com
 
 
 First Flight
 =====
 
-Inkscape [http://inkscape.org]
+[Inkscape http://inkscape.org]
 -----
 
  - import .svg version of gravatar
@@ -22,7 +22,7 @@ Inkscape [http://inkscape.org]
  - BONUS: I exported in `UTF8` and clicked the `gcode friendly` option when
    saving.
 
-OpenSCAD [http://openscad.org]
+[OpenSCAD http://openscad.org]
 -----
 
  - Using this tutorial
@@ -40,7 +40,7 @@ linear_extrude(height = .5) import("/home/decause/inkscapes/pixelremy_3D_boxonly
  - After all is compiled and rendered, click `export` and save the result as a
    `.stl` file
 
-Slic3r [http://slic3r.org]
+[Slic3r http://slic3r.org]
 -----
 
 Not knowing anybetter, I opened the `.stl` file in Pronterface, which looked
@@ -51,10 +51,10 @@ all the paths without extruding any filament)
  - press `add` button to open `.stl` file in slic3r 
  - press `Export G-code...` button on the right 
 
-Pronterface [https://github.com/kliment/Printrun]
+[Pronterface https://github.com/kliment/Printrun]
 -----
 
  - Set extruder and bed temps appropriately
- - click `load` button and open your .gcode file
+ - click `load` button and open your `.gcode` file
  - BONUS: Use `Tools -> Plater` option to position model
  - click `print` button, and actually have enough filament to complete the job
