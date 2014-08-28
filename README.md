@@ -9,6 +9,12 @@ http://lulzbot.com
 It has since evolved into a place where I keep my original and remixed designs
 :)
 
+License
+===
+
+Unless otherwise noted, designs and models posted here are licensed under
+[Creative Commons Attribution Share-Alike 4.0] (https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 First Flight - Designing and Printing my Gravatar
 =====
