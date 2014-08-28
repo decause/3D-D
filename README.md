@@ -1,12 +1,16 @@
 3D-D
 ====
 
-This repository mostly just contains files created and generated during my
-initial attempts to 3D print a version of my gravatar on a Lulzbot TAZ 3:
+This repository started as a place to contain files created and generated
+during my initial attempts to 3D print a version of my gravatar on a Lulzbot
+TAZ 3:
 http://lulzbot.com
 
+It has since evolved into a place where I keep my original and remixed designs
+:)
 
-First Flight
+
+First Flight - Designing and Printing my Gravatar
 =====
 
 [Inkscape] (http://inkscape.org)
